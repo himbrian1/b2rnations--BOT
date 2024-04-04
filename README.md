@@ -1,6 +1,6 @@
  <p align="center">  
   <a href="">
-    <img alt="PRINCE" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
+    <img alt="BRIAN" width="600" height="350" src="https://i.imgur.com/iI086tX.jpeg">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 <a href="https://github.com/PRINCE-GDS/THE-PRINCE-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PRINCE-GDS/THE-PRINCE-BOT?label=Watching&style=social"></a>
 </p>
  
-<h1 align="center">🛡️ᑭᖇIᑎᑕᕮ ᗷOT ᗰᗪ🛡️</h1>
+<h1 align="center">🛡️BRIAN🛡️</h1>
 
 #### 🪩 To Change the owner number click here [CHANGE ONWER](https://github.com/PRINCE-GDS/THE-PRINCE-BOT/blob/main/plugins/main-creator.js#L7)🪩
 
